@@ -28,3 +28,10 @@
  In our simple python project, we followed these steps:
  1. request the html based on the given keywords 
     + we need generated the url based on our keywords
+    
+ 2. fetch the html content from that url
+     * may need to unblock the restrictions of crawler from the original web   
+     in this sogou wechat , we need to unblock it from manually input the validation code
+ 
+ 3. parse the needed info from the fetched file 
+  
